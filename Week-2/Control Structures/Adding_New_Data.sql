@@ -1,6 +1,3 @@
-
-
-
 INSERT INTO Customers VALUES (1, 'Amit', 65, 15000, 'FALSE');
 INSERT INTO Customers VALUES (2, 'Rahul', 45, 8000, 'FALSE');
 INSERT INTO Customers VALUES (3, 'Sneha', 70, 12000, 'FALSE');
