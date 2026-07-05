@@ -1,5 +1,4 @@
 
-
 BEGIN
     FOR r IN (
         SELECT c.Name, l.LoanID, l.DueDate
